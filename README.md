@@ -2,7 +2,7 @@
 
 This project demonstrates lightweight fine-tuning of a pretrained DistilGPT2 model using **Low-Rank Adaptation (LoRA)**, implemented on a **CPU-only environment** (Dell laptop) with Hugging Face Transformers and PEFT libraries.
 
-> 📁 Part of IA2 Research Submission — Department of Computer Engineering, KJSCE
+> 📁 Part of IA2 Research Submission 
 
 ---
 
@@ -83,7 +83,7 @@ Hu, E., Shen, Y., Wallis, P., et al. (2021). **LoRA: Low-Rank Adaptation of Larg
 ## 📧 Author
 
 **Ojas Keer**  
-Dept. of Computer Engineering, KJSCE  
+  
 ojas.keer@somaiya.edu
 
 ---
